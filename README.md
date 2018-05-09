@@ -6,7 +6,7 @@ Thermistor is a Temperature Sensor whose resistance varies as its temperature va
 ## Simple Connection
 
 
-![](https://github.com/electronicdrops/Thermistor/img/schematic.png)
+![Schematic](https://github.com/electronicdrops/Thermistor/blob/master/img/schematic.png)
 
 ## Sensor characteristics you need to know
 
