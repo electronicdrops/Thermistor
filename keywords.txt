@@ -1,0 +1,5 @@
+Thermistor	KEYWORD1
+
+getTemperature		KEYWORD2
+calibateWithBeta	KEYWORD2
+calibrateWithSteinhart	KEYWORD2

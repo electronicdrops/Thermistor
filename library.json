@@ -1,0 +1,25 @@
+{
+  "name": "Thermistor",
+  "keywords": "ntc thermistor temperature sensor",
+  "description": "Arduino library for interfacing with NTC Thermistor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electronicdrops/Thermistor"
+  },
+  "authors":
+  [
+    {
+      "name": "Electronicdrops.com",
+      "email": "ed@electronicdrops.com",
+      "url": "www.electronicdrops.com"
+    },
+    {
+      "name": "Danilo Queiroz Barbosa",
+      "url": "https://github.com/daniloqb",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "version": "1.0"
+}

@@ -1,10 +1,16 @@
 
 #include "Thermistor.h"
 
-//Thermistor sensor;
+Thermistor sensor;
 
+// Passing sensor pin
+// Thermistor sensor(A0);
 
-Thermistor sensor(A0, 10000,10000,0.001108042, 0.000238192, 0.000000067);
+// Passing sensor pin, RO, Rf, Beta      
+// Thermistor sensor(A0, 10000,10000,3800);
+
+// Passing sensor pin, RO, Rf, Steinhart-Hart coeficients
+// Thermistor sensor(A0, 10000,10000,0.001108042, 0.000238192, 0.000000067);
 
 void setup() {
 
